@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "gradle",
+            "name": "day1_2015",
+            "tasks": ["run", "-Pday=1", "-Pyear=2015"],
+        },
+
+    ]
+}
